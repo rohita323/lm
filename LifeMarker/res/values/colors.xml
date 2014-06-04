@@ -1,0 +1,8 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="back">#ff272727</color>
+    <color name="header_text">#fffff0b2</color>
+    <color name="actionbar_text">#66ffffff</color>
+
+</resources>

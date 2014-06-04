@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LifeMarker</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">Vivek Paul</string>
+    <string name="entry_1">Vivek Paul with his Tag Heuer, July 2005.
+Mr. Paul is a man who is never late.</string>
+    <string name="entry_2">About Vivek Paul
+Vivek Paul is an Indian-born businessman and founder of KineticGlue, a cloud based software company. He is also a Consulting Professor of Radiology at Stanford University.</string>
+    <string name="entry_3">Bought July 9th, 2005; to celebrate the new office.</string>
+    <string name="entry_4">On May 5, Wipro vice chairman Vivek Paul walked into the second floor Bangalore offices of Wipro executive vice president (human resources), Pratik Kumar. The meeting was unscheduled.</string>
+
+</resources>
